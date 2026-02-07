@@ -12,9 +12,9 @@ Distributed under the Apache License Version 2.0. See `LICENSE` for more informa
 <!-- CONTACT -->
 ## Contact
 
-Tony LELIEVRE - tony@effinity.fr
+Effinity's support - tech@effinity.fr
 
-Project Link: [https://github.com/tonyeffinity/Effinity---Analytic-Tag/](https://github.com/tonyeffinity/Effinity---Analytic-Tag/)
+Project Link: [https://github.com/effinity-fr/Effinity---Analytic-Tag/](https://github.com/effinity-fr/Effinity---Analytic-Tag/)
 
 
 
